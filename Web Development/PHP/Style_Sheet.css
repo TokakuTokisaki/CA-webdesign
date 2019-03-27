@@ -1,0 +1,29 @@
+/*css file for index.php*/
+body {
+    background-color: #221F1F;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+.divtag {
+    display: table;
+    width: 100%;
+}
+
+.signIn {
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+
+#Sub {
+    margin-top: 5px;
+}

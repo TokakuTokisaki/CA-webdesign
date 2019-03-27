@@ -1,0 +1,40 @@
+/*css file for secure.php*/
+body {
+    background-color: #221F1F;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* All input */
+.whole {
+    border-radius: 30px;
+    padding: 5px;
+}
+
+#Headtable {
+    border: 1px solid white;
+    table-layout: fixed;
+    width: 100%;
+}
+
+#Headtable td {
+    border: 1px solid white;
+    width: 100px;
+}
+
+/* Datatable */
+#DTable {
+    border: 1px solid white;
+    table-layout: fixed;
+    width: 100%;
+}
+
+#DTable td {
+    border: 1px solid white;
+    width: 100px;
+}
